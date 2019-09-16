@@ -1,6 +1,6 @@
 ---
-title: My First Post
-date: 2018-12-23 20:47:18
+title: A Sample Post
+date: 2019-9-23 20:47:18
 excerpt: Here is a little bit about my post.
 type: post
 blog: true
@@ -10,6 +10,9 @@ tags:
     - JavaScript
 ---
 
-## Hello Dr. Zoidberg
+# One '#' means that this is the title, unless it is the title is set to something else the the 'front matter' section.
 
-Dr. Zoidberg, that doesn't make sense. But, okay! No! The kind with looting and maybe starting a few fires! Well, then good news! It's a suppository. Hey, guess what you're accessories to. Hey, guess what you're accessories to.
+Just start typing here, and everything will work out fine.
+
+Here's an image
+![sample image](../../images/my-first-post/sample.jpg)
